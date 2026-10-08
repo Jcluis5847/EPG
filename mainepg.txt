@@ -8,3 +8,5 @@
 #EXTEPG: https://www.open-epg.com/files/argentina4.xml
 #EXTEPG: https://www.open-epg.com/files/argentina4.xml
 #EXTEPG: https://www.open-epg.com/files/uruguay2.xml
+#EXTEPG: https://nocords.xyz/pluto/epg.xml
+#EXTEPG: https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/ar.xml
